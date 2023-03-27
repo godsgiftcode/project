@@ -1,0 +1,231 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+.main{
+    max-width: 1440px !important;
+    margin: 0 auto;
+    border: 0.5px solid black;
+    height: 1000px;
+}
+.rec36{
+    position: absolute;
+    width: 65%;
+    height: 660px;
+    display: flex;
+    z-index: -2;
+}
+.grp1{
+    position: absolute;
+    display: flex;
+    z-index: 5;
+    width: 30px;
+    height: 30px;
+    left: 100px;
+    top: 70px;
+}
+.par-team{
+    position: absolute;
+    width: 625px;
+    height: 96px;
+    top: 75px;
+    left: 130px;
+    font-family: 'poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160.4%;
+    /* or 4
+    8px */
+    letter-spacing: 0.02em;
+    color: white;
+}
+.vect12{
+    width: 50%;
+    position: absolute;
+    top: 0;
+}
+.vect11{
+    position: absolute;
+    display: flex;
+    z-index: 9;
+    width: 60%;
+    top: 0;
+}
+.rect20{
+    position: absolute;
+    width: 200px;
+    left: 90px;
+    top: 180px;
+}
+.imaage-welcome{
+    position: absolute;
+    left: 100px;
+    top: 195px;
+    width: 170px;
+}
+.p-workthe{
+    position: absolute;
+    width: 625px;
+    height: 96px;
+    top: 215px;
+    left: 100px;
+    font-size: 45px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160.4%;
+    /* or 48px */
+    letter-spacing: 0.02em;
+    color: white;
+}
+.eclp-7{
+    position: absolute;
+    top: 165px;
+    left: 350px;
+}
+.line-2{
+    position: absolute;
+    top: 370px;
+    left: 100px;
+    display: flex;
+    z-index: 5;
+}
+.p-createBuild{
+    position: absolute;
+    width: 625px;
+    height: 96px;
+    top: 395px;
+    left: 100px;
+    font-size: 20px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160.4%;
+    /* or 48px */
+    letter-spacing: 0.02em;
+    color: white;
+}
+.getStarted-getStarted{
+    position: absolute;
+    left: 100px;
+    top: 475px;
+    width: 190px;
+    height: 50px;
+}
+.triangle-1{
+    position: absolute;
+    left: 440px;
+    top: 440px;
+    height: 27px;
+    width: 27px;
+
+}
+.group-35{
+    position: absolute;
+    left: 470px;
+    top: 350px;
+    width: 42px;
+    height: 42px;
+}
+.rectangle-10{
+    position: absolute;
+    top: 180px;
+    left: 530px;
+    width: 33px;
+    height: 33px;   
+}
+.group-43{
+    position: absolute;
+    left: 540px;
+    top: 145px;
+    width: 260.59px;
+    height: 220.6px;
+}
+#select-1{
+    display: flex;
+    z-index: 12;
+    position: absolute
+}
+.vector-10{
+    position: absolute;
+    display: flex;
+    z-index: -2;
+    width: 54%;
+    top: 530px;
+}
+.vector-8{
+    position: absolute;
+    display: flex;
+    z-index: -1;
+    width: 44%;
+    top: 450px;
+}
+.group-10{
+    position: absolute;
+    top: 399px;
+    left: 490px;
+    height: 340px;
+}
+.group-55{
+    position: absolute;
+    top: 422px;
+    left: 940px;
+    width: 200px;
+}
+.group-12{
+    position: absolute;
+    left: 800px;
+    top: 180px;
+    height: 340px;
+
+}
+.sign-up{
+    position: absolute;
+    height: 50px;
+    right: 20px;
+    top: 50px;       
+}
+.par-login{
+    position: absolute;
+    left: 1070px;
+    top: 55px;
+    width: 525px;
+    height: 96px;
+    font-size: 20px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 126.9%;
+    /* or 30px */
+    color: #757575;
+    
+}
+.line-3{
+    position: absolute;
+    left: 100px;
+    top: 750px;
+} 
+.para-see-why{
+    position: absolute;
+    left: 100px;
+    top: 770px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 44px;
+    /* or 147% */
+
+    letter-spacing: 0.02em;
+
+    color: #515151;
+}
+.group-52{
+    height: 80px;
+    width: 350px;
+    position: absolute;
+    right: 0;
+    top: 800px;
+}
